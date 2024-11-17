@@ -2,6 +2,8 @@
 
 🎉 **[MANIFESTO.md](./MANIFESTO.md)** —  Our Plan 🎮  
 
+# [Go to the main repo](https://github.com/hmZa-Sfyn/Minecraft-Hub)
+
 ---
 
 ## 🌟 Why We Exist  
