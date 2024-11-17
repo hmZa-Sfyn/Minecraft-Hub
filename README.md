@@ -1,4 +1,16 @@
-# 🌌 Welcome to Minecraft-Hub! 🌍  
+
+<div align="center">
+    <h1 style="font-size:50px;">
+        <code style="font-family:monospace, lucida console;">
+            🌌 Welcome to Minecraft-Hub! 🌍  
+        </code>
+        <br>
+        <h2 style="font-family:cascadia code;font-size:15px;border:2px solid orange;padding:10px;border-radius:20px;margin:10px;background:black;color:orange;">
+            "mhub: Where Minecraft Worlds Unite - The Universal Hub for Creators, Developers, and Players.
+Built by the community, for the community. One index to rule them all."
+        </h2>
+    </h1>
+</div>
 
 🎉 **[MANIFESTO.md](./MANIFESTO.md)** —  Our Plan 🎮  
 
