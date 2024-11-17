@@ -1,9 +1,7 @@
 
 <div align="center">
     <h1 style="font-size:50px;">
-        <code style="font-family:monospace, lucida console;">
-            🌌 Welcome to Minecraft-Hub! 🌍  
-        </code>
+        <code style="font-family:monospace, lucida console;">🌌 Welcome to Minecraft-Hub! 🌍</code>
         <br>
         <h2 style="font-family:cascadia code;font-size:15px;border:2px solid orange;padding:10px;border-radius:20px;margin:10px;background:black;color:orange;">
             "mhub: Where Minecraft Worlds Unite - The Universal Hub for Creators, Developers, and Players.
