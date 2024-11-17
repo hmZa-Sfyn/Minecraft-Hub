@@ -10,7 +10,8 @@ Built by the community, for the community. One index to rule them all."
     </h1>
 </div>
 
-🎉 **[MANIFESTO.md](./MANIFESTO.md)** —  Our Plan 🎮  
+# 🎉 [Go to website](https://hmza-blog.vercel.app/posts/minecraft-hub-manfesto)
+# 🎉 **[MANIFESTO.md](./MANIFESTO.md)** —  Our Plan 🎮  
 
 # [Go to the main repo](https://github.com/hmZa-Sfyn/Minecraft-Hub)
 
