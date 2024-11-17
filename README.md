@@ -21,4 +21,4 @@ Click **[Discord](https://discord.gg/Ftjsk6FP)** to dive into the core of Minecr
 
 Let’s shape the future of Minecraft together! 🚀  
 
-## `Repo-Version:` 0.0.2
+## `Repo-Version:` 0.0.3
