@@ -1,8 +1,6 @@
 <div align="center">
     <h1 style="font-size:50px;">
-        <code style="font-family:monospace, lucida console;">
-            MANIFESTO.md
-        </code>
+        <code style="font-family:monospace, lucida console;">MANIFESTO.md</code>
     </h1>
 </div>
 
